@@ -9,3 +9,4 @@ This project mainly focuses on differents between pareidolia and real faces and 
 
 
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
+plots, notebooks, training codes, model results and weights will be uploaded. 
