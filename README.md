@@ -10,3 +10,9 @@ This project mainly focuses on differents between pareidolia and real faces and 
 
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
 plots, notebooks, training codes, model results and weights will be uploaded. 
+
+## Feedback
+
+If you had any feedback or question, please reach out to me at mh.nikimaleki@gmail.com
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhnikimaleki/)
