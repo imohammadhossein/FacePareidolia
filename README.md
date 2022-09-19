@@ -11,6 +11,11 @@ This project mainly focuses on differents between pareidolia and real faces and 
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
 plots, notebooks, training codes, model results and weights will be uploaded. 
 
+- add codes
+- correlation results
+
+
+
 ## Feedback
 If you had any feedback or question, please reach out to me at mh.nikimaleki@gmail.com
 ## 🔗 Links
