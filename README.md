@@ -14,6 +14,7 @@ plots, notebooks, training codes, model results and weights will be uploaded.
 - add codes
 - correlation results
 - ADD conclusion1
+- add cornet descriptions
 
 
 ## Feedback
