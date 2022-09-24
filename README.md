@@ -17,7 +17,7 @@ plots, notebooks, training codes, model results and weights will be uploaded.
 - add cornet descriptions
 - add cornet results and codes
 - add final conclusion
-
+- add mutual cornet
 
 ## Feedback
 If you had any feedback or question, please reach out to me at mh.nikimaleki@gmail.com
