@@ -13,6 +13,8 @@ Can convolutional neural networks replicate human perceiving logic? This project
 
 ### • Methods
 
+First, We designed a behavioural task, in which people answered to images of 3 different categories: Faces, Pareidolia Faces and Objects Matches (of Pareidolias); each with 86 images. The aim of this task was to compare peoples' answer to these categories. You can see the details of the task and relevant results [here](/guides/content/editing-an-existing-page).
+
 <h1 align="left">To do</h1>
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
 plots, notebooks, training codes, model results and weights will be uploaded. 
