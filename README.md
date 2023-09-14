@@ -7,13 +7,11 @@
 
 <h1 align="center">Introduction</h1>
 
-### • Idea
-
 Can convolutional neural networks replicate human perceiving logic? This project mainly focuses on analyzing different image representations between the human visual perception system and brain-like convolutional neural networks. Furthermore, the idea of implementing a brain-like computational model which imitates human visual performance on illusory faces and it's statistical attributes would be addressed.
 
-### • Methods
+<h1 align="center">Methods</h1>
 
-First, We designed a behavioural task, in which people answered to images of 3 different categories: Faces, Pareidolia Faces and Objects Matches (of Pareidolias); each with 86 images. The aim of this task was to compare peoples' answer to these categories. You can see the details of the task and relevant results [<ins>here</ins>](https://github.com/imohammadhossein/FacePareidolia/tree/main/Behavioural%20Task).
+1. First, We designed a behavioural task, in which people answered to images of 3 different categories: Faces, Pareidolia Faces and Objects Matches (of Pareidolias); each with 86 images. The aim of this task was to compare peoples' answer to these categories. You can see the details of the task and relevant results [<ins>here</ins>](https://github.com/imohammadhossein/FacePareidolia/tree/main/Behavioural%20Task).
 
 <h1 align="left">To do</h1>
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
