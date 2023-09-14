@@ -1,4 +1,4 @@
-<h1 align="center">FacePareidolia</h1>
+<h1 align="center">Face Pareidolia</h1>
 
 <p align="center">
   <img src="images/1.jpg" width="300" />
