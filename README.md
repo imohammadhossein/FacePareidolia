@@ -13,6 +13,7 @@ Can convolutional neural networks replicate human perceiving logic? This project
 
 ### • Methods
 
+<h1 align="left">To do</h1>
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
 plots, notebooks, training codes, model results and weights will be uploaded. 
 
