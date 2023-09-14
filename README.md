@@ -1,6 +1,6 @@
 <h1 align="center">FacePareidolia</h1>
 
-<p float="center">
+<p align="center">
   <img src="images/1.jpg" width="300" />
   <img src="images/2.jpg" width="300" /> 
 </p>
