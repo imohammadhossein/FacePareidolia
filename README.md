@@ -12,10 +12,11 @@ Can convolutional neural networks replicate human perceiving logic? This project
 <h1 align="center">Methods</h1>
 
 1. First, We designed a behavioural task, in which people answered to images of 3 different categories: Faces, Pareidolia Faces and Objects Matches (of Pareidolias); each with 86 images. The aim of this task was to compare peoples' answer to these categories. You can see the details of the task and relevant results [<ins>here</ins>](https://github.com/imohammadhossein/FacePareidolia/tree/main/Behavioural%20Task).
+2. then, 
 
-2. Then,
+3. Then,
 
-3. Finall, 
+4. Finall, 
 
 <h1 align="left">To do</h1>
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
