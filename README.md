@@ -9,7 +9,7 @@
 
 ## • Idea
 
-This project mainly focuses on differents between pareidolia and real faces and objects under the human visual perception system and VGG16 as the most human like neural network.
+Can convolutional neural networks replicate human perceiving logic? This project mainly focuses on analyzing different image representations between the human visual perception system and brain-like convolutional neural networks. Furthermore, the idea of implementing a brain-like computational model which imitates human visual performance on illusory faces and it's statistical attributes would be addressed.
 
 
 The procedure includes many training programmings, statistichal tests, and very deeep thinks behind everything.
