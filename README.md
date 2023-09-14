@@ -5,6 +5,8 @@
   <img src="images/2.jpg" width="300" /> 
 </p>
 
+<h1 align="center">Introduction</h1>
+
 This project mainly focuses on differents between pareidolia and real faces and objects under the human visual perception system and VGG16 as the most human like neural network.
 
 
