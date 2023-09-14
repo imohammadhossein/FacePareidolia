@@ -7,7 +7,7 @@
 
 <h1 align="center">Introduction</h1>
 
-## • Idea
+### • Idea
 
 Can convolutional neural networks replicate human perceiving logic? This project mainly focuses on analyzing different image representations between the human visual perception system and brain-like convolutional neural networks. Furthermore, the idea of implementing a brain-like computational model which imitates human visual performance on illusory faces and it's statistical attributes would be addressed.
 
