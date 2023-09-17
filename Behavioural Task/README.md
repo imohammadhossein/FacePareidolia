@@ -5,9 +5,9 @@
 
 > - The task was looking at every image and type what you see in a few words. The items that are reported can actually be present in the image or feels like have been saw !!! Some just colored images also put for having "catch trial". There was only 10 seconds to look at each image and typing the words. Also, it has been asked them not to write more than 5 words and try to be as fast and accurate as possible; below are the some sample images:
 
-| Face01           | ![Face04](Behavioural%20Task/Sample%20Images/ImageFaces004.jpg)          | ![VGG-16](images/DCNNs/VGG2.jpg)  	      |
+| ![Face04](Behavioural%20Task/Sample%20Images/ImageFaces004.jpg)           | ![Face04](Behavioural%20Task/Sample%20Images/ImageFaces004.jpg)          | ![VGG-16](images/DCNNs/VGG2.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|
-| ResNet-50 	  | ![ResNet-50](images/DCNNs/RES1.jpg)   	| ![ResNet-50](images/DCNNs/RES2.jpg)  	  |
-| DenseNet-169    | ![DenseNet-169](images/DCNNs/DNS1.jpg)    | ![DenseNet-169](images/DCNNs/DNS2.jpg)    |
+| ![Face04](Behavioural%20Task/Sample%20Images/ImageFaces038.jpg) 	  | ![ResNet-50](images/DCNNs/RES1.jpg)   	| ![ResNet-50](images/DCNNs/RES2.jpg)  	  |
+| ![Face04](Behavioural%20Task/Sample%20Images/ImageFaces072.jpg)    | ![DenseNet-169](images/DCNNs/DNS1.jpg)    | ![DenseNet-169](images/DCNNs/DNS2.jpg)    |
 
 <h2 align="left">Results</h2>
