@@ -8,8 +8,8 @@
 <p align="center">
 | <img src="Behavioural%20Task/Sample%20Images/ImageFaces004.jpg" width="300" />          | <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />          | <img src="Behavioural%20Task/Sample%20Images/ImageMtchd066.jpg" width="300" />  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|
-| ![Face038](Behavioural%20Task/Sample%20Images/ImageFaces038.jpg) 	  | ![Parei067](Behavioural%20Task/Sample%20Images/ImageOrig066.jpg)   	| ![Mtchd067](Behavioural%20Task/Sample%20Images/ImageMtchd067.jpg)  	  |
-| ![Face072](Behavioural%20Task/Sample%20Images/ImageFaces072.jpg)    | ![Parei072](Behavioural%20Task/Sample%20Images/ImageOrig066.jpg)    | ![Mtchd072](Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg)    |
+| <img src="Behavioural%20Task/Sample%20Images/ImageFaces038.jpg" width="300" /> 	  | <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />   	| <img src="Behavioural%20Task/Sample%20Images/ImageMtchd067.jpg" width="300" />  	  |
+| <img src="Behavioural%20Task/Sample%20Images/ImageFaces072.jpg" width="300" />    | <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />    | <img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="300" />    |
 </p>
 
 <h2 align="left">Results</h2>
