@@ -8,5 +8,6 @@
 | VGG16           | ![VGG-16](images/DCNNs/VGG1.jpg)          | ![VGG-16](images/DCNNs/VGG2.jpg)  	      |
 |:---------------:|:-----------------------------------:|:-----------------------------------:|
 | ResNet-50 	  | ![ResNet-50](images/DCNNs/RES1.jpg)   	| ![ResNet-50](images/DCNNs/RES2.jpg)  	  |
+| DenseNet-169    | ![DenseNet-169](images/DCNNs/DNS1.jpg)    | ![DenseNet-169](images/DCNNs/DNS2.jpg)    |
 
 <h2 align="left">Results</h2>
