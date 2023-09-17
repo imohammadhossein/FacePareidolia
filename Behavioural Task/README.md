@@ -7,8 +7,8 @@
 
 <p align="center">
 <img src="Behavioural%20Task/Sample%20Images/ImageFaces004.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageMtchd066.jpg" width="200" /> <br/>
-<img src="Behavioural%20Task/Sample%20Images/ImageFaces038.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageOrig067.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageMtchd067.jpg" width="200" />
-<img src="Behavioural%20Task/Sample%20Images/ImageFaces072.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageOrig072.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="200" />
+<img src="Behavioural%20Task/Sample%20Images/ImageFaces038.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageOrig067.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageMtchd067.jpg" width="200" /> <br/>
+<img src="Behavioural%20Task/Sample%20Images/ImageFaces072.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageOrig072.jpg" width="200" /> <img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="200" /> <br/>
 </p>
 
 <h2 align="left">Results</h2>
