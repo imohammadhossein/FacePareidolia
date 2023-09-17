@@ -6,7 +6,7 @@
 > - The task was looking at every image and type what you see in a few words. The items that are reported can actually be present in the image or feels like have been saw !!! Some just colored images also put for having "catch trial". There was only 10 seconds to look at each image and typing the words. Also, it has been asked them not to write more than 5 words and try to be as fast and accurate as possible; below are the some sample images from the task in our 3 categories:
 
 <p align="center">
-|<img src="Behavioural%20Task/Sample%20Images/ImageFaces004.jpg" width="300" />| <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />| <img src="Behavioural%20Task/Sample%20Images/ImageMtchd066.jpg" width="300" />|
+|<img src="Behavioural%20Task/Sample%20Images/ImageFaces004.jpg" width="300" /><img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" /><img src="Behavioural%20Task/Sample%20Images/ImageMtchd066.jpg" width="300" />|
 | <img src="Behavioural%20Task/Sample%20Images/ImageFaces038.jpg" width="300" /> 	  | <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />   	| <img src="Behavioural%20Task/Sample%20Images/ImageMtchd067.jpg" width="300" />  	  |
 | <img src="Behavioural%20Task/Sample%20Images/ImageFaces072.jpg" width="300" />    | <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />    | <img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="300" />    |
 </p>
