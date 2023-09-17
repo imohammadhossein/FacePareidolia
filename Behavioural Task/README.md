@@ -12,4 +12,5 @@
 </p>
 
 <h2 align="left">Results</h2>
-> - 
+> - B analyzing responses to images, from general filters (every responses that is related to human and human faces in anyway, like face elements, emotions, occubations, genders, ...) to more specific filters for just human face components and up to strictly just the 'face' word, the number of face-related-word's encounters (times that a word has passed our filters), has gradualy become less for real faces and more for illusory faces (pareidolia) images on the contrary. 
+This means that.
