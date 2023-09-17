@@ -7,7 +7,6 @@
 
 <p align="center">
 |<img src="Behavioural%20Task/Sample%20Images/ImageFaces004.jpg" width="300" />| <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />| <img src="Behavioural%20Task/Sample%20Images/ImageMtchd066.jpg" width="300" />|
-|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | <img src="Behavioural%20Task/Sample%20Images/ImageFaces038.jpg" width="300" /> 	  | <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />   	| <img src="Behavioural%20Task/Sample%20Images/ImageMtchd067.jpg" width="300" />  	  |
 | <img src="Behavioural%20Task/Sample%20Images/ImageFaces072.jpg" width="300" />    | <img src="Behavioural%20Task/Sample%20Images/ImageOrig066.jpg" width="300" />    | <img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="300" />    |
 </p>
