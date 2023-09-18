@@ -16,7 +16,7 @@
 > - By analyzing responses to images, from general filters (every responses that is related to human and human faces in anyway, like face elements, emotions, occubations, genders, ...) to more specific filters for just human face components and up to strictly just the 'face' word, the number of face-related-word's encounters (times that a word has passed our filters), has gradualy become less for real faces and more for illusory faces (pareidolia) images on the contrary. This means that, when we have obvious image of a human face, people pa more attention to the details, and vice versa.
 
 <p align="center">
-<img src="Results/faceNumberedGeneral_updated_normalized.jpg" width="600" /> <br/>
+<img src="Results/faceNumberedGeneral_updated_normalized.jpg" width="1600" /> <br/>
 <img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="200" /> <br/>
 <img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="200" /> <br/>
 </p>
