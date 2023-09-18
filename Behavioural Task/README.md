@@ -17,6 +17,6 @@
 
 <p align="center">
 <img src="Results/faceNumberedGeneral_updated_normalized.jpg" width="3000" /> <br/>
-<img src="Results/faceNumbered_FaceComponents_normalized.jpg.jpg" width="3000" /> <br/>
-<img src="Behavioural%20Task/Sample%20Images/ImageMtchd072.jpg" width="200" /> <br/>
+<img src="Results/faceNumbered_FaceComponents_normalized.jpg" width="3000" /> <br/>
+<img src="Results/faceNumbered_just_face_words_normalized.jpg" width="3000" /> <br/>
 </p>
