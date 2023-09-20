@@ -1,1 +1,1 @@
-<h1 align="center">Model</h1>
+<h1 align="center">Computational Model Training</h1>
