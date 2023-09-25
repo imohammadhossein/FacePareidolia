@@ -14,4 +14,6 @@
 
 > For training our models, we used 2 famous datasets; the [<ins>Imagenet</ins>](https://www.image-net.org/) dataset for our object categories (as one of the most prominent, largest and diverse object categorization datasets), and [<ins>VGGface2</ins>](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) dataset for our required real face images. 
 
+- <h4 align="left"><em>Datasets</em></h4>
+
 <h1 align="center">Training Cornet-RT</h1>
