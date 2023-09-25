@@ -2,7 +2,7 @@
 <p align="center">
 <img src="image.png" width="500" />
 </p>
-<h1 align="center">Training VGG16</h1>
+<h1 align="center">Training Models</h1>
 
 <h3 align="left">1. Training Procedure</h3>
 
