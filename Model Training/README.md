@@ -4,6 +4,6 @@
 </p>
 <h1 align="center">Training VGG16</h1>
 
-<h3 align="left">- Training Procedure</h3>
+- <h3 align="left">Training Procedure</h3>
 
 <h1 align="center">Training Cornet-RT</h1>
