@@ -5,6 +5,6 @@
 <h1 align="center">Training VGG16</h1>
 
 - <h3 align="left">Training Procedure</h3>
-> We implemented the training procedure of VGG16 model, exactly the same way described in its [<ins>official paper</ins>](https://arxiv.org/abs/1409.1556)
+> We chose VGG16 model as one of the simpleset feed-forward convolutional neural network, and implemented the training procedure, exactly with the same details described in its [<ins>official paper</ins>](https://arxiv.org/abs/1409.1556) in the Python and under tensorflow and keras frameworks.
 
 <h1 align="center">Training Cornet-RT</h1>
