@@ -3,7 +3,7 @@
 <img src="image.png" width="500" />
 </p>
 
-<h3 align="left">1. VGG16 Training Procedure</h3>
+<h3 align="center">VGG16 Training Procedure</h3>
 
 - <h4 align="left"><em>Implementation</em></h4>
 
@@ -15,7 +15,7 @@
 
 - <h4 align="left"><em>Results</em></h4>
 
-<h3 align="center">2. Cornet-RT Training Procedure</h3>
+<h3 align="center">Cornet-RT Training Procedure</h3>
 
 - <h4 align="left"><em>Implementation</em></h4>
 
