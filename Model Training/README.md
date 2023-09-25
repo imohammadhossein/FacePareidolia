@@ -15,6 +15,8 @@
 
 - <h4 align="left"><em>Results</em></h4>
 
+---
+
 <h3 align="center">Cornet-RT Training Procedure</h3>
 
 - <h4 align="left"><em>Implementation</em></h4>
