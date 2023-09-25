@@ -15,7 +15,7 @@
 
 - <h4 align="left"><em>Results</em></h4>
 
-| Model Name  |   |   |   |   |   |   |   |   |   |
+| Model Name  |  Top-1 | Face Class  | Binary on Face  | Binary on Object  |  Categorical on Face | Categorical on Object  | Task's Faces  | Task's Pareis  |  Task's Objects |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Base  |   |   |   |   |   |   |   |   |   |
 | 1.000  |   |   |   |   |   |   |   |   |   |
