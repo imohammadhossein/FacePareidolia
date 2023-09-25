@@ -2,9 +2,8 @@
 <p align="center">
 <img src="image.png" width="500" />
 </p>
-<h1 align="center">Training VGG16</h1>
 
-<h3 align="left">1. Training Procedure</h3>
+<h3 align="left">1. VGG16 Training Procedure</h3>
 
 - <h4 align="left"><em>Implementation</em></h4>
 
@@ -16,4 +15,10 @@
 
 - <h4 align="left"><em>Results</em></h4>
 
-<h1 align="center">Training Cornet-RT</h1>
+<h3 align="center">2. Cornet-RT Training Procedure</h3>
+
+- <h4 align="left"><em>Implementation</em></h4>
+
+- <h4 align="left"><em>Datasets</em></h4>
+
+- <h4 align="left"><em>Results</em></h4>
